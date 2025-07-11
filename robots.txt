@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://akshitvip.github.io/kotlin/sitemap.xml
